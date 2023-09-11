@@ -14,6 +14,12 @@ function Produtos() {
 
         <h2>Colar</h2>
         <img src={Colar} alt="colar" />
+
+        <h2>Pulseira</h2>
+        <img src={Pulseira} alt="Pulseira" />
+
+        <h2>Anel</h2>
+        <img src={Anel} alt="Anel" />
         
       </div>
     </>
