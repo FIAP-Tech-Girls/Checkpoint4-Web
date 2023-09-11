@@ -1,6 +1,8 @@
 import { } from 'react'
 import Brinco from './assets/brinco.jpg'
 import Colar from './assets/colar.jpg'
+import Pulseira from './assets/pulseira.jpeg'
+import Anel from './assets/anel.jpeg'
 
 function Produtos() {
   
