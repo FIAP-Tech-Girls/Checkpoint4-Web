@@ -1,9 +1,9 @@
 # CheckPoint Web Development
 
-Alunas:
-Anny Carolina - 98295
-Camila Padalino - 98316
-Letícia Resina - 98069
-Luana Cabezaolias - 99320
+Alunas:<br>
+Anny Carolina - 98295<br>
+Camila Padalino - 98316<br>
+Letícia Resina - 98069<br>
+Luana Cabezaolias - 99320<br>
 
 Link Deploy: 
