@@ -1,14 +1,14 @@
 import { } from 'react'
 
 
-function App() {
+function Home() {
   
 
   return (
     <>
-      
+      <h1>Home</h1>
     </>
   )
 }
 
-export default App
+export default Home

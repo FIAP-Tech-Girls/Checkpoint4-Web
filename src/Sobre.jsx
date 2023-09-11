@@ -1,7 +1,7 @@
 import { } from 'react'
 
 
-function App() {
+function Sobre() {
   
 
   return (
@@ -11,4 +11,4 @@ function App() {
   )
 }
 
-export default App
+export default Sobre
