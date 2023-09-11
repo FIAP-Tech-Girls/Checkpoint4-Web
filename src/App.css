@@ -11,7 +11,7 @@ body{
 .menu, .footer{
     background-color: #255959;
     width:100%;
-    height:80px;
+    height:90px;
 }
 
 h1, h2, h3, p{
@@ -33,5 +33,47 @@ h1, h2, h3, p{
 }
 
 /* footer */
+.footer{
+    text-align: center;
+}
 
+.footer h2{
+    font-size:25px;
+    padding:5px;
+}
 
+.footer p{
+    font-size:18px;
+}
+
+/* Home */
+
+.home h1{
+    text-align: center;
+}
+
+.home p{
+    text-align: justify;
+    font-size: 20px;
+}
+
+/* Sobre */
+
+.sobre{
+    padding:10px;
+    margin:10px;
+}
+
+.sobre h2{
+    text-align: center;
+    color:#050D0D;
+}
+
+.sobre p{
+    text-align: justify;
+    font-size: 20px;
+}
+
+.sobre #imagem{
+    text-align: center;
+}
