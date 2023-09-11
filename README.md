@@ -1,6 +1,6 @@
 # CheckPoint Web Development
 
-Alunas:<br>
+Tech Girls:<br>
 Anny Carolina - 98295<br>
 Camila Padalino - 98316<br>
 Letícia Resina - 98069<br>
