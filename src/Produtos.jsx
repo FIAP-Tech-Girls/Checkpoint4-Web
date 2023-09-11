@@ -9,20 +9,23 @@ function Produtos() {
 
   return (
     <>
-      <div class="joias">
+    <div className='joias'>
+        <div classname="joias1">
+          <h2>Brinco</h2>
+          <img src= {Brinco} alt="brinco" width="400px"/>
 
-        <h2>Brinco</h2>
-        <img src= {Brinco} alt="brinco" />
+          <h2>Colar</h2>
+          <img src={Colar} alt="colar" width="400px"/>
+        </div>
 
-        <h2>Colar</h2>
-        <img src={Colar} alt="colar" />
+        <div className='joias2'>
+          <h2>Pulseira</h2>
+          <img src={Pulseira} alt="Pulseira" width="400px"/>
 
-        <h2>Pulseira</h2>
-        <img src={Pulseira} alt="Pulseira" />
-
-        <h2>Anel</h2>
-        <img src={Anel} alt="Anel" />
-        
+          <h2>Anel</h2>
+          <img src={Anel} alt="Anel" width="400px"/>
+          
+        </div>
       </div>
     </>
   )

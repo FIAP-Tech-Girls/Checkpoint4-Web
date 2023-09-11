@@ -77,3 +77,18 @@ h1, h2, h3, p{
 .sobre #imagem{
     text-align: center;
 }
+
+/* Produtos */
+
+.joias{
+    padding:10px;
+    text-align: center;
+}
+
+.joias1{
+    display: flexbox;
+}
+
+.joias2{
+    display: flexbox;
+}
